@@ -10,7 +10,7 @@ function Home() {
         <div className={styles.heroContent}>
           <h1 className={styles.heroTitle}>
             <span className={styles.heroName}>Drew Pickens</span>
-            <span className={styles.heroRole}>Co-Founder, Front-End Developer & Project Manager</span>
+            <span className={styles.heroRole}>Co-Founder, Software Engineer & Project Manager</span>
           </h1>
           <p className={styles.heroText}>Innovating digital solutions for local businesses in university towns</p>
           <Link to="/contact" className={styles.ctaButton}>Get in Touch</Link>

@@ -8,6 +8,8 @@ import Hobbies from './components/Hobbies';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BlueVerseCaseStudy from './components/BlueVerseCaseStudy';
+import EducationAccomplishments from './components/EducationAccomplishments';
+
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
           <Route path="/hobbies" element={<Hobbies />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/blueverse-case-study" element={<BlueVerseCaseStudy />} />
+          <Route path="/achievements" element={<EducationAccomplishments />} />
         </Routes>
         <Footer />
       </div>

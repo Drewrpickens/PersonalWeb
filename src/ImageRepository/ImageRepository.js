@@ -8,8 +8,10 @@ import GolfImage from './Image/Golf.JPEG'
 import FishingImage from './Image/Fishing.jpg'
 import PhiKappaPsiLogo from './Image/PhiKappaPsi.png'
 import BrassTopLogo from './Image/BrassTap.png'
+import TTULogo from './Image/TTULogo.png'
+import LCL from './Image/LCL.jpg'
 
 export {HeadShot, Logo, TTUAccelorator, RiceBusinessPlan, BlueVerseLaunch,HockeyImage, 
 GolfImage, FishingImage,
-PhiKappaPsiLogo, BrassTopLogo
+PhiKappaPsiLogo, BrassTopLogo, TTULogo, LCL
 }

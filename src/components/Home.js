@@ -58,7 +58,7 @@ function Home() {
           <p>Revolutionizing local business operations in university towns</p>
           <div className={styles.projectStats}>
             <div className={styles.stat}>
-              <span className={styles.statNumber}>17,000+</span>
+              <span className={styles.statNumber}>25,000+</span>
               <span className={styles.statLabel}>Downloads</span>
             </div>
             <div className={styles.stat}>

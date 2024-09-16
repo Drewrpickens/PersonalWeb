@@ -43,6 +43,24 @@ const BlueVerseCaseStudy = () => {
         />
 
         <TimelineItem 
+          date="March 2021"
+          title="TTU Accelerator Program"
+          content={
+            <>
+              <p>BlueVerse competed in the Texas Tech University Accelerator program, securing valuable resources for our growth:</p>
+              <ul className={styles.featureList}>
+                <li>Won $25,000 in funding</li>
+                <li>Gained access to industry-leading mentors</li>
+                <li>Received guidance crucial for our startup journey</li>
+                <li>Joined I-Core in order to validate what we were building.</li>
+              </ul>
+            </>
+          }
+          image={TTUAccelorator}
+          caption="BlueVerse team at the TTU Accelerator Program"
+        />
+
+        <TimelineItem 
           date="February 4, 2022"
           title="Product Launch"
           content={
@@ -52,25 +70,9 @@ const BlueVerseCaseStudy = () => {
           caption="One of our partnered businesses using BlueVerse to sell Skip the Line Passes"
         />
 
-        <TimelineItem 
-          date="March 2022"
-          title="TTU Accelerator Program"
-          content={
-            <>
-              <p>BlueVerse competed in the Texas Tech University Accelerator program, securing valuable resources for our growth:</p>
-              <ul className={styles.featureList}>
-                <li>Won $25,000 in funding</li>
-                <li>Gained access to industry-leading mentors</li>
-                <li>Received guidance crucial for our startup journey</li>
-              </ul>
-            </>
-          }
-          image={TTUAccelorator}
-          caption="BlueVerse team at the TTU Accelerator Program"
-        />
 
         <TimelineItem 
-          date="April 2022"
+          date="April 2023"
           title="Rice Business Plan Competition"
           content={
             <>
@@ -83,7 +85,24 @@ const BlueVerseCaseStudy = () => {
         />
 
         <TimelineItem 
-          date="Summer 2022 - Spring 2023"
+          date="Spring 2024"
+          title="Expansion into New Markets"
+          content={
+            <>
+              <p></p>
+              <ul className={styles.featureList}>
+                <li>With BlueVerse success in it's inital market, we started expansion into new markets.</li>
+                <li>Structured the Sales Org to incetivize sales in the new markets with a tiered salesman approach.</li>
+                <li>Launch in Denton, Texas (UNT) </li>
+                <li>Launch in Austin, Texas (UT) </li>
+                <li>Launch in College Sation, Texas (A&M) </li>
+              </ul>
+            </>
+          }
+        />
+
+        <TimelineItem 
+          date="Spring 2024 - Summer 2023"
           title="Expansion and Feature Development"
           content={
             <>
@@ -100,7 +119,7 @@ const BlueVerseCaseStudy = () => {
         />
 
         <TimelineItem 
-          date="Fall 2023"
+          date="Summer 2024"
           title="Seed Funding Success"
           content={
             <>
@@ -121,12 +140,12 @@ const BlueVerseCaseStudy = () => {
             <>
               <p>Today, BlueVerse continues to thrive:</p>
               <ul className={styles.featureList}>
-                <li>Over 17,000 downloads across App Store and Google Play</li>
+                <li>Over 25,000 downloads across App Store and Google Play</li>
                 <li>Raised a total of $1.6+ million in funding</li>
-                <li>Expanded to multiple university towns</li>
-                <li>Achieved a remarkably low 4.76% churn rate for businesses using our table-tech hardware</li>
+                <li>Started Plans to Expand the Product Digitally</li>
+                <li>Started implementing more Operational Tools to our Software suite in order to scale without having to rely on users.</li>
               </ul>
-              <p>We remain committed to our mission of transforming the landscape of local business operations and student engagement in university communities across the nation.</p>
+              <p>We remain committed to our mission of giving businesses of all kinds the type of tools the major corperation food chains have.</p>
             </>
           }
         />

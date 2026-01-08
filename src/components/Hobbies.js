@@ -1,6 +1,20 @@
 import React from 'react';
 import styles from './Hobbies.module.css';
-import { HockeyImage, GolfImage, HotelPicture } from '../ImageRepository/ImageRepository';
+import { HockeyImage, GolfImage, HotelPicture,
+Wicked,
+TrumpTower,
+Selfie,
+Rocketfeller,
+Ring,
+photobooth,
+insiderest,
+Iceskating,
+HotelView,
+Game,
+food,
+EmSleep,
+City,
+Dsleep,ResturantPicture } from '../ImageRepository/ImageRepository';
 
 const Hobbies = () => {
   return (
@@ -35,6 +49,128 @@ const Hobbies = () => {
           </div>
         </div>
       </div>
+
+      <div className={styles.hobbyItem}>
+          <img src={Wicked} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={TrumpTower} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={Selfie} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={Rocketfeller} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={Ring} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={photobooth} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={insiderest} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={Iceskating} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={HotelView} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={Game} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={food} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+
+                <div className={styles.hobbyItem}>
+          <img src={EmSleep} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+      
+                      <div className={styles.hobbyItem}>
+          <img src={City} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+      
+                      <div className={styles.hobbyItem}>
+          <img src={Dsleep} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+      
+                      <div className={styles.hobbyItem}>
+          <img src={ResturantPicture} alt="Fishing adventure" className={styles.hobbyImage} />
+          <div className={styles.hobbyContent}>
+            <h2>Fishing</h2>
+            <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
+          </div>
+        </div>
+      
+      
       
       <div className={styles.conclusion}>
         <p>These hobbies not only provide a welcome break from my professional life but also contribute to my personal growth. They teach me valuable lessons about patience, strategy, and the importance of balancing work with play—skills that I bring back to my role as an entrepreneur and developer.</p>

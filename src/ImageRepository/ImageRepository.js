@@ -9,9 +9,11 @@ import FishingImage from './Image/Fishing.jpg'
 import PhiKappaPsiLogo from './Image/PhiKappaPsi.png'
 import BrassTopLogo from './Image/BrassTap.png'
 import TTULogo from './Image/TTULogo.png'
-import LCL from './Image/LCL.jpg'
+import LCL from './Image/LCLLogo.JPG'
+import HotelPicture from './Image/IMG_5074.jpg'
+import ResturantPicture from './Image/IMG_5057.jpg'
 
 export {HeadShot, Logo, TTUAccelorator, RiceBusinessPlan, BlueVerseLaunch,HockeyImage, 
 GolfImage, FishingImage,
-PhiKappaPsiLogo, BrassTopLogo, TTULogo, LCL
+PhiKappaPsiLogo, BrassTopLogo, TTULogo, LCL, HotelPicture, ResturantPicture
 }

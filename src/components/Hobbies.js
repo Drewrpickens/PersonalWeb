@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Hobbies.module.css';
-import { HockeyImage, GolfImage, FishingImage } from '../ImageRepository/ImageRepository';
+import { HockeyImage, GolfImage, HotelPicture } from '../ImageRepository/ImageRepository';
 
 const Hobbies = () => {
   return (
@@ -28,7 +28,7 @@ const Hobbies = () => {
         </div>
         
         <div className={styles.hobbyItem}>
-          <img src={FishingImage} alt="Fishing adventure" className={styles.hobbyImage} />
+          <img src={HotelPicture} alt="Fishing adventure" className={styles.hobbyImage} />
           <div className={styles.hobbyContent}>
             <h2>Fishing</h2>
             <p>There's something uniquely peaceful about fishing. Whether it's the challenge of the catch or the tranquility of being out on the water, fishing provides me with a perfect balance to my fast-paced tech career.</p>
